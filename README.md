@@ -1,5 +1,4 @@
 # QVerse — Real-Time Messaging Platform
-[![Live Demo](https://img.shields.io/badge/LIVE%20DEMO-VERCEL-black?style=for-the-badge)](https://q-verse-chat-bie8ortrk-saoirseros-projects.vercel.app/login)
 [![React](https://img.shields.io/badge/React-19-blue?style=for-the-badge)]()
 [![Node.js](https://img.shields.io/badge/Node.js-Express-green?style=for-the-badge)]()
 [![Socket.IO](https://img.shields.io/badge/Socket.IO-Real_Time-black?style=for-the-badge)]()
