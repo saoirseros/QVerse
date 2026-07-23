@@ -21,16 +21,6 @@ The project demonstrates the architecture behind production-grade messaging appl
 
 ---
 
-# Snapshots
-
-<img width="1918" alt="Login" src="YOUR_SCREENSHOT_LINK"/>
-
-<img width="1918" alt="Chat Interface" src="YOUR_SCREENSHOT_LINK"/>
-
-<img width="1918" alt="Profile" src="YOUR_SCREENSHOT_LINK"/>
-
----
-
 # Table of Contents
 
 1. [Project Overview](#project-overview)
