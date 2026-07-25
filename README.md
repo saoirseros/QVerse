@@ -351,8 +351,6 @@ This enables instant synchronization of conversations without polling or refresh
 | `GET` | `/api/auth/check` | Verify authentication token |
 | `PUT` | `/api/auth/update-profile` | Update profile information |
 
----
-
 ## Messages
 
 | Method | Endpoint | Description |
@@ -361,8 +359,6 @@ This enables instant synchronization of conversations without polling or refresh
 | `GET` | `/api/messages/:id` | Retrieve conversation with a user |
 | `POST` | `/api/messages/send/:id` | Send a new message |
 | `PUT` | `/api/messages/mark/:id` | Mark message as seen |
-
----
 
 ## Server Status
 
