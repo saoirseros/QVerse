@@ -8,27 +8,6 @@ QVerse is a modern **full-stack real-time messaging platform** built using the *
 
 The project demonstrates the architecture behind production-grade messaging applications by combining **REST APIs**, **WebSockets**, **JWT authentication**, and cloud-based media storage into a single scalable application.
 
-<table width="100%">
-  <tr>
-    <td align="left">
-      <strong>NOTE:</strong>
-    </td>
-    <td align="left">
-      Real-time messaging requires the backend server and Socket.IO service to be running. The frontend is deployed on Vercel, while the backend connects to MongoDB Atlas and Cloudinary through environment variables.
-    </td>
-  </tr>
-</table>
-
----
-
-# Snapshots
-
-<img width="1918" alt="Login" src="YOUR_SCREENSHOT_LINK"/>
-
-<img width="1918" alt="Chat Interface" src="YOUR_SCREENSHOT_LINK"/>
-
-<img width="1918" alt="Profile" src="YOUR_SCREENSHOT_LINK"/>
-
 ---
 
 # Table of Contents
@@ -372,8 +351,6 @@ This enables instant synchronization of conversations without polling or refresh
 | `GET` | `/api/auth/check` | Verify authentication token |
 | `PUT` | `/api/auth/update-profile` | Update profile information |
 
----
-
 ## Messages
 
 | Method | Endpoint | Description |
@@ -382,8 +359,6 @@ This enables instant synchronization of conversations without polling or refresh
 | `GET` | `/api/messages/:id` | Retrieve conversation with a user |
 | `POST` | `/api/messages/send/:id` | Send a new message |
 | `PUT` | `/api/messages/mark/:id` | Mark message as seen |
-
----
 
 ## Server Status
 
